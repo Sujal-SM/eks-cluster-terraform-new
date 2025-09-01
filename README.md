@@ -25,4 +25,5 @@ Before using this project, ensure you have:
 
 ---
 
-
+## TO CLONE THIS REPO 
+Use - git clone https://github.com/Sujal-SM/eks-cluster-terraform-new.git
